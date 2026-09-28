@@ -1,3 +1,9 @@
+hello
+
+
+
+
+
 const ClipPathTitle = ({ title, color, bg, className, borderColor } : { title: string, color: string, bg: string, className: string, borderColor: string}) => {
   return (
     <div className="general-title">
